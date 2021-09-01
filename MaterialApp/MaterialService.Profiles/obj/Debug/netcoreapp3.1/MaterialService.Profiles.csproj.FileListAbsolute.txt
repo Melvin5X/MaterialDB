@@ -1,0 +1,15 @@
+F:\LUM\MaterialApp\MaterialService.Profiles\bin\Debug\netcoreapp3.1\MaterialService.Profiles.deps.json
+F:\LUM\MaterialApp\MaterialService.Profiles\bin\Debug\netcoreapp3.1\MaterialService.Profiles.dll
+F:\LUM\MaterialApp\MaterialService.Profiles\bin\Debug\netcoreapp3.1\MaterialService.Profiles.pdb
+F:\LUM\MaterialApp\MaterialService.Profiles\bin\Debug\netcoreapp3.1\MaterialService.DTO.dll
+F:\LUM\MaterialApp\MaterialService.Profiles\bin\Debug\netcoreapp3.1\MaterialService.Models.dll
+F:\LUM\MaterialApp\MaterialService.Profiles\bin\Debug\netcoreapp3.1\MaterialService.Models.pdb
+F:\LUM\MaterialApp\MaterialService.Profiles\bin\Debug\netcoreapp3.1\MaterialService.DTO.pdb
+F:\LUM\MaterialApp\MaterialService.Profiles\obj\Debug\netcoreapp3.1\MaterialService.Profiles.csproj.AssemblyReference.cache
+F:\LUM\MaterialApp\MaterialService.Profiles\obj\Debug\netcoreapp3.1\MaterialService.Profiles.GeneratedMSBuildEditorConfig.editorconfig
+F:\LUM\MaterialApp\MaterialService.Profiles\obj\Debug\netcoreapp3.1\MaterialService.Profiles.AssemblyInfoInputs.cache
+F:\LUM\MaterialApp\MaterialService.Profiles\obj\Debug\netcoreapp3.1\MaterialService.Profiles.AssemblyInfo.cs
+F:\LUM\MaterialApp\MaterialService.Profiles\obj\Debug\netcoreapp3.1\MaterialService.Profiles.csproj.CoreCompileInputs.cache
+F:\LUM\MaterialApp\MaterialService.Profiles\obj\Debug\netcoreapp3.1\MaterialService.Profiles.csproj.CopyComplete
+F:\LUM\MaterialApp\MaterialService.Profiles\obj\Debug\netcoreapp3.1\MaterialService.Profiles.dll
+F:\LUM\MaterialApp\MaterialService.Profiles\obj\Debug\netcoreapp3.1\MaterialService.Profiles.pdb

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialService.Models", "Material.Models\MaterialService.Models.csproj", "{6ACDA446-28AA-44A6-8D82-1830FDC20AD8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialService.Data", "Material.DataRavenDB\MaterialService.Data.csproj", "{847A588D-CEA6-45CA-A39D-88B7D47BBC15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialService.DTO", "MaterialService.DTO\MaterialService.DTO.csproj", "{68BA3450-ED0D-4BB1-AF74-4C0FC3A9C995}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialService.Mapping", "MaterialService.Profiles\MaterialService.Mapping.csproj", "{8C686FC5-17D7-408F-AA61-A0F0D60DD955}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialService.API", "MaterialService.API2\MaterialService.API.csproj", "{C8C8740C-C26D-4C0B-88F9-B156EBB0476F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACDA446-28AA-44A6-8D82-1830FDC20AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACDA446-28AA-44A6-8D82-1830FDC20AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACDA446-28AA-44A6-8D82-1830FDC20AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACDA446-28AA-44A6-8D82-1830FDC20AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{847A588D-CEA6-45CA-A39D-88B7D47BBC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847A588D-CEA6-45CA-A39D-88B7D47BBC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847A588D-CEA6-45CA-A39D-88B7D47BBC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847A588D-CEA6-45CA-A39D-88B7D47BBC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BA3450-ED0D-4BB1-AF74-4C0FC3A9C995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BA3450-ED0D-4BB1-AF74-4C0FC3A9C995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BA3450-ED0D-4BB1-AF74-4C0FC3A9C995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BA3450-ED0D-4BB1-AF74-4C0FC3A9C995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C686FC5-17D7-408F-AA61-A0F0D60DD955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C686FC5-17D7-408F-AA61-A0F0D60DD955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C686FC5-17D7-408F-AA61-A0F0D60DD955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C686FC5-17D7-408F-AA61-A0F0D60DD955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C8740C-C26D-4C0B-88F9-B156EBB0476F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C8740C-C26D-4C0B-88F9-B156EBB0476F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C8740C-C26D-4C0B-88F9-B156EBB0476F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C8740C-C26D-4C0B-88F9-B156EBB0476F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {358B4B41-63A0-415B-9948-C6B2E2A8327F}
+	EndGlobalSection
+EndGlobal

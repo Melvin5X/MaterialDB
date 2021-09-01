@@ -1,0 +1,10 @@
+F:\LUM\MaterialApp\MaterialService.DTO\bin\Debug\netcoreapp3.1\MaterialService.DTO.deps.json
+F:\LUM\MaterialApp\MaterialService.DTO\bin\Debug\netcoreapp3.1\MaterialService.DTO.dll
+F:\LUM\MaterialApp\MaterialService.DTO\bin\Debug\netcoreapp3.1\MaterialService.DTO.pdb
+F:\LUM\MaterialApp\MaterialService.DTO\obj\Debug\netcoreapp3.1\MaterialService.DTO.csproj.AssemblyReference.cache
+F:\LUM\MaterialApp\MaterialService.DTO\obj\Debug\netcoreapp3.1\MaterialService.DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\LUM\MaterialApp\MaterialService.DTO\obj\Debug\netcoreapp3.1\MaterialService.DTO.AssemblyInfoInputs.cache
+F:\LUM\MaterialApp\MaterialService.DTO\obj\Debug\netcoreapp3.1\MaterialService.DTO.AssemblyInfo.cs
+F:\LUM\MaterialApp\MaterialService.DTO\obj\Debug\netcoreapp3.1\MaterialService.DTO.csproj.CoreCompileInputs.cache
+F:\LUM\MaterialApp\MaterialService.DTO\obj\Debug\netcoreapp3.1\MaterialService.DTO.dll
+F:\LUM\MaterialApp\MaterialService.DTO\obj\Debug\netcoreapp3.1\MaterialService.DTO.pdb

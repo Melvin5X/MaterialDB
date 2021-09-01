@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mO10kDRtXlRMnpGTcPU7TyoNe9a5LBI3uL5x39Y6ae9bJKhPW/CFgWZhy30lwNVUoy39SOCwmR5XXWKoS+VMRg==",
+  "success": true,
+  "projectFilePath": "F:\\LUM\\MaterialApp\\MaterialService.Profiles\\MaterialService.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Melv\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Melv\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Melv\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Melv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Melv\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Melv\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Melv\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

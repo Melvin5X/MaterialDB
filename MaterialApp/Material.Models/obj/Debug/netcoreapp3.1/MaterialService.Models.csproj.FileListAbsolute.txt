@@ -1,0 +1,10 @@
+F:\LUM\MaterialApp\Material.Models\bin\Debug\netcoreapp3.1\MaterialService.Models.deps.json
+F:\LUM\MaterialApp\Material.Models\bin\Debug\netcoreapp3.1\MaterialService.Models.dll
+F:\LUM\MaterialApp\Material.Models\bin\Debug\netcoreapp3.1\MaterialService.Models.pdb
+F:\LUM\MaterialApp\Material.Models\obj\Debug\netcoreapp3.1\MaterialService.Models.csproj.AssemblyReference.cache
+F:\LUM\MaterialApp\Material.Models\obj\Debug\netcoreapp3.1\MaterialService.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\LUM\MaterialApp\Material.Models\obj\Debug\netcoreapp3.1\MaterialService.Models.AssemblyInfoInputs.cache
+F:\LUM\MaterialApp\Material.Models\obj\Debug\netcoreapp3.1\MaterialService.Models.AssemblyInfo.cs
+F:\LUM\MaterialApp\Material.Models\obj\Debug\netcoreapp3.1\MaterialService.Models.csproj.CoreCompileInputs.cache
+F:\LUM\MaterialApp\Material.Models\obj\Debug\netcoreapp3.1\MaterialService.Models.dll
+F:\LUM\MaterialApp\Material.Models\obj\Debug\netcoreapp3.1\MaterialService.Models.pdb

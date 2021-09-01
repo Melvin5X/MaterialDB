@@ -1,0 +1,13 @@
+F:\LUM\MaterialApp\Material.DataRavenDB\bin\Debug\netcoreapp3.1\MaterialService.DataRavenDB.deps.json
+F:\LUM\MaterialApp\Material.DataRavenDB\bin\Debug\netcoreapp3.1\MaterialService.DataRavenDB.dll
+F:\LUM\MaterialApp\Material.DataRavenDB\bin\Debug\netcoreapp3.1\MaterialService.DataRavenDB.pdb
+F:\LUM\MaterialApp\Material.DataRavenDB\bin\Debug\netcoreapp3.1\MaterialService.Models.dll
+F:\LUM\MaterialApp\Material.DataRavenDB\bin\Debug\netcoreapp3.1\MaterialService.Models.pdb
+F:\LUM\MaterialApp\Material.DataRavenDB\obj\Debug\netcoreapp3.1\MaterialService.DataRavenDB.csproj.AssemblyReference.cache
+F:\LUM\MaterialApp\Material.DataRavenDB\obj\Debug\netcoreapp3.1\MaterialService.DataRavenDB.GeneratedMSBuildEditorConfig.editorconfig
+F:\LUM\MaterialApp\Material.DataRavenDB\obj\Debug\netcoreapp3.1\MaterialService.DataRavenDB.AssemblyInfoInputs.cache
+F:\LUM\MaterialApp\Material.DataRavenDB\obj\Debug\netcoreapp3.1\MaterialService.DataRavenDB.AssemblyInfo.cs
+F:\LUM\MaterialApp\Material.DataRavenDB\obj\Debug\netcoreapp3.1\MaterialService.DataRavenDB.csproj.CoreCompileInputs.cache
+F:\LUM\MaterialApp\Material.DataRavenDB\obj\Debug\netcoreapp3.1\MaterialService.DataRavenDB.csproj.CopyComplete
+F:\LUM\MaterialApp\Material.DataRavenDB\obj\Debug\netcoreapp3.1\MaterialService.DataRavenDB.dll
+F:\LUM\MaterialApp\Material.DataRavenDB\obj\Debug\netcoreapp3.1\MaterialService.DataRavenDB.pdb
