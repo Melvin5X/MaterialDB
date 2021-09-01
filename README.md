@@ -16,6 +16,12 @@
     dotnet run
     ```
 
+ Go to the Client folder :
+- Run the following commands 
+    ```sh
+    npm install
+    npm start
+    ```
 
 
 
